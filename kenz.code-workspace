@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../kenz"
+		},
+		{
+			"path": "../../Desktop/kz"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "kz"
+	}
+}
